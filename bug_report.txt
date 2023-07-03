@@ -1,0 +1,7 @@
+ID
+Severity/Priority
+Title
+Steps
+Expected result
+Actual result
+Attachments
